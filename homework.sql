@@ -1,5 +1,14 @@
--- Week 5 - Wednesday
--- Questions
+-- SQL Joins & SubQuery Homework
+-- Week 5, Day 3 - Wednesday
+
+
+-- Instructions:
+
+-- - Using the joins and subqueries we discussed today answer the following questions.
+-- - Save the SQL that you write for your questions, and commit that file to github and submit the link from github.
+
+
+-- Questions:
 
 -- 1. List all customers who live in Texas (use JOINs)
 
